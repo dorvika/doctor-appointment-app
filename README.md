@@ -1,7 +1,9 @@
 # Doctor appointment app
 
-It is the app made using Bootstrap5, JS (ES6 Classes) and Gulp. This app helps easily create, edit and delete doctor appointment cards with the help of external API.
+- The app helps easily create, edit and delete doctor appointment cards with the help of external API.
+- Used technologies: ES6 Classes (JS), Bootstrap5, SCSS, Gulp.
+- [Watch result on GitHub Pages](https://dorvika.github.io/doctor-appointment-app/) (don't forget use sign in data below).
 
-**Data for sign in:**  
- Username - dorvika2@gmail.com  
- Password - 2408vd
+## Data for sign in:
+ **Username** - dorvika2@gmail.com  
+ **Password** - 2408vd
